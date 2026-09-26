@@ -1,7 +1,7 @@
 name: 버그 제보
 description: 파이널 판타지5 한글패치에서 발견한 오류를 알려 주세요.
 title: "[버그] "
-labels: ["버그", "확인 전"]
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
